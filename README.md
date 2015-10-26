@@ -1,1 +1,1 @@
-This repo has code written out of my own interest.
+This repo has codes written out of my own interest.
